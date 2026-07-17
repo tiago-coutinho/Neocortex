@@ -1,228 +1,257 @@
-# 🧠 Neocortex — Cognitive Systems
+# 🧠 Neocortex
 
-Sistemas que não apenas automatizam tarefas,
-mas expandem a forma como pensamos, decidimos e interpretamos o mundo.
-
----
-
-## 🚀 Sobre este repositório
-
-Este repositório é o laboratório prático do Método Neocortex.
-
-Aqui, ideias deixam de ser discurso
-e se tornam sistemas, experimentos e estruturas cognitivas aplicadas.
-
-Cada projeto documentado neste espaço responde a uma pergunta central:
-
-> Como usar tecnologia para ampliar a cognição humana
-> sem perder contexto, sentido e responsabilidade?
+> **Investigando como humanos e máquinas podem pensar melhor juntos.**
 
 ---
 
-## 🧠 O que você vai encontrar aqui
+## Sobre este repositório
 
-Este não é um repositório tradicional de código.
+Este repositório documenta a construção da **Neocortex**, um laboratório público dedicado a investigar como tecnologias podem ampliar a forma como percebemos, pensamos, aprendemos e decidimos.
 
-Você encontrará:
+Mais do que desenvolver software, este espaço registra hipóteses, experimentos, decisões metodológicas, limitações e descobertas.
 
-– experimentos cognitivos
+Cada projeto representa uma tentativa de responder à mesma pergunta:
 
-– protótipos funcionais
-
-– decisões técnicas documentadas
-
-– falhas e aprendizados
-
-– prompts estruturados como sistemas
-
-– arquiteturas de pensamento aplicadas
-
-Cada projeto é um laboratório.
-
-Cada laboratório é uma hipótese sendo testada.
+> **Como utilizar tecnologias para ampliar a cognição humana sem substituir aquilo que nos torna humanos?**
 
 ---
 
-## 🧩 Estrutura do sistema
+## 🧩 Sobre
 
-Os projetos são organizados não por tecnologia,
-mas por formas de relação entre tecnologia e mente humana.
+Minha formação reúne comunicação, criatividade, economia e sustentabilidade — áreas que investigam como valor, comportamento e significado são construídos nas relações humanas.
 
----
+Hoje aplico essa perspectiva ao estudo das tecnologias por meio do **Método Neocortex**, inspirado na forma como o cérebro humano percebe, organiza e transforma informação em conhecimento.
 
-### 🟩 tech-as-trust
+Nesta investigação, a tecnologia deixa de ser apenas uma ferramenta de automação.
 
-**Tecnologia como geradora de confiança**
+Ela passa a:
 
-Sistemas que tornam a informação verificável
-e reduzem assimetrias entre quem sabe e quem decide.
+- comunicar contexto;
+- ampliar possibilidades criativas;
+- estruturar decisões;
+- revelar padrões invisíveis;
+- responder a dinâmicas econômicas reais;
+- evoluir de forma sustentável ao longo do tempo.
 
-→ Aqui, tecnologia não persuade. Ela torna auditável.
+Acredito que tecnologia não substitui o pensamento humano.
 
----
-
-### 🟦 tech-as-mirror
-
-**Tecnologia como espelho cognitivo**
-
-Sistemas que revelam padrões invisíveis,
-comportamentos recorrentes e vieses ocultos.
-
-→ Aqui, tecnologia não orienta. Ela revela.
+Ela pode ampliar nossa capacidade de perceber, compreender e decidir.
 
 ---
 
-### 🟨 tech-as-decision
+# O que você encontrará aqui
 
-**Tecnologia como estrutura de decisão**
+Este não é um portfólio tradicional.
 
-Sistemas que organizam dilemas,
-explicitam consequências
-e reduzem o ruído entre dados e ação.
+Também não é apenas um repositório de código.
 
-→ Aqui, tecnologia não decide. Ela estrutura.
+Aqui são documentados:
 
----
+- 🧪 Experimentos cognitivos
+- ⚙️ Protótipos e sistemas
+- 📚 Decisões metodológicas
+- 📈 Evidências obtidas
+- ❌ Limitações encontradas
+- 💡 Aprendizados
 
-### 🟥 tech-as-meaning
-
-**Tecnologia como construção de sentido**
-
-Sistemas que trabalham com linguagem, estética e interpretação,
-ampliando a capacidade humana de produzir significado.
-
-→ Aqui, tecnologia não substitui criação. Ela dialoga com ela.
+Cada projeto representa uma hipótese sendo testada.
 
 ---
 
-## 🔬 Como os projetos são construídos
+# Como a investigação evolui
 
-Cada sistema segue uma lógica baseada no Método Neocortex
+A Neocortex não parte de respostas prontas.
 
-– Enxerga o contexto em tempo real
-– Transforma dados em significado
-– Conecta informações em narrativas coerentes
-– Gera empatia e propósito
-– Equilibra razão e emoção para orientar decisões
-– Aprende continuamente
+Ela evolui por meio de ciclos sucessivos de investigação.
 
- 
-Mais do que um framework técnico,
-isso é uma forma de organizar pensamento.
+```text
+Pergunta
+    ↓
+Hipótese
+    ↓
+Experimento
+    ↓
+Evidências
+    ↓
+Aprendizados
+    ↓
+Nova Hipótese
+```
 
----
-
-## 🧪 Exemplo de laboratório
-
-### 🔐 Disjuntor Cognitivo
-
-Um sistema experimental que investiga:
-
-> Como transformar IA generativa
-> em um sistema auditável e confiável
-
-Em vez de tentar “corrigir” a IA,
-o projeto propõe separar:
-
-– geração
-
-– validação
-
-– consciência de incerteza
-
-
-Resultado:
-
-A IA deixa de ser apenas produtiva
-e passa a ser questionável — e, por isso, utilizável com mais responsabilidade.
+Cada repositório representa uma etapa dessa jornada.
 
 ---
 
-## ⚙️ Sobre tecnologia
+# Estrutura
 
-Este repositório utiliza:
+A arquitetura deste GitHub cresce junto com a investigação.
 
-– ferramentas low-code e no-code
-– prompts estruturados como lógica
-– bancos de dados simples
-– Python, SQL e JSON quando necessário
+Novos projetos surgem apenas quando uma pesquisa amadurece o suficiente para justificar um espaço próprio.
 
-A escolha é intencional.
+Essa decisão é intencional.
 
-O foco não é complexidade técnica,
-mas clareza cognitiva.
+A estrutura deve refletir a evolução da pesquisa — nunca antecipá-la.
 
 ---
 
-## 📖 Como navegar
+# Método Neocortex
 
-Você pode explorar este repositório de duas formas:
+Todos os experimentos compartilham um mesmo princípio.
 
-### 1. Por domínio
+Investigar como tecnologias podem ampliar capacidades humanas sem reduzir autonomia, contexto ou responsabilidade.
 
-Acesse os diretórios `tech-as-*` e veja como cada relação se materializa.
+Ao longo dessa investigação buscamos compreender como diferentes tecnologias podem:
 
-### 2. Por laboratório
+- ampliar a percepção;
+- organizar conhecimento;
+- estruturar decisões;
+- revelar padrões;
+- apoiar pensamento crítico;
+- preservar contexto;
+- favorecer interpretações mais conscientes.
 
-Entre em um projeto específico e acompanhe:
+O Método Neocortex não descreve uma tecnologia.
 
-– problema
-
-– hipótese
-
-– construção
-
-– testes
-
-– aprendizado
-
+Ele organiza uma forma de investigar.
 
 ---
 
-## 🚫 O que este repositório não é
+# Projeto Cyber-Humano
 
-❌ Não é um portfólio tradicional
+Grande parte desta investigação converge para um projeto central.
 
-❌ Não é um repositório de código completo
+## 🧠 Cyber-Humano
 
-❌ Não busca eficiência máxima
+Uma investigação contínua sobre como pessoas podem desenvolver novas capacidades cognitivas em simbiose com as máquinas.
 
-
-Este espaço existe para explorar limites — não para escondê-los.
-
----
-
-## 🔗 Conexão com a visão
-
-Este repositório é a execução.
-
-A visão, os princípios e o modelo conceitual estão em:
-
-👉 https://github.com/tiago-coutinho
+Cada vídeo publicado no YouTube corresponde a um ou mais experimentos documentados neste GitHub.
 
 ---
 
-## 🎯 Posicionamento
+# Primeiro Experimento
 
-Neocortex não é uma coleção de ferramentas.
+## 🔬 Disjuntor Cognitivo
 
-É um sistema de investigação sobre:
+Primeira investigação pública da Neocortex.
 
-– como pensamos
-– como decidimos
-– como atribuímos sentido
+**Questão investigada**
 
-usando tecnologia como meio.
+> Como tornar sistemas generativos mais transparentes e confiáveis sem alterar seu funcionamento interno?
+
+O objetivo não é "corrigir" modelos generativos.
+
+O objetivo é compreender como organizar melhor a relação entre geração, validação e tomada de decisão.
 
 ---
 
-## 🔚 Encerramento
+# Tecnologias
 
-Se você chegou até aqui, provavelmente já percebeu:
+As tecnologias utilizadas variam conforme a necessidade de cada investigação.
 
-isso não é sobre usar melhor a tecnologia.
+Entre elas:
 
-É sobre **pensar melhor com ela**.
+- Python
+- SQL
+- JSON
+- APIs
+- Modelos de linguagem (LLMs)
+- Bancos de dados
+- Ferramentas Low-code e No-code
+- Agentes, quando fizerem sentido para a hipótese investigada
 
-Bem-vindo ao laboratório.
+A escolha da tecnologia nunca é o ponto central.
 
+Ela existe para responder uma pergunta.
+
+---
+
+# Como navegar
+
+Existem duas formas de explorar este laboratório.
+
+## Pela investigação
+
+Acompanhe cada experimento desde sua hipótese inicial até os aprendizados obtidos.
+
+Você encontrará documentos como:
+
+- Problema
+- Hipótese
+- Metodologia
+- Evidências
+- Limitações
+- Aprendizados
+
+---
+
+## Pelos projetos
+
+Explore aplicações desenvolvidas ao longo da pesquisa.
+
+Alguns projetos nascerão como experimentos e, quando amadurecerem, poderão evoluir para sistemas completos.
+
+---
+
+# O que este repositório não é
+
+- ❌ Um portfólio tradicional
+- ❌ Uma coleção de prompts
+- ❌ Um catálogo de ferramentas
+- ❌ Uma demonstração de complexidade técnica
+
+Este espaço existe para documentar investigações de forma aberta, transparente e reproduzível.
+
+---
+
+# Filosofia
+
+A Neocortex parte de uma premissa simples.
+
+> **Tecnologia não substitui pensamento. Ela pode ampliar nossa capacidade de pensar.**
+
+Todo projeto publicado aqui procura testar essa hipótese.
+
+---
+
+# Conecte-se à investigação
+
+### 📺 YouTube
+
+O laboratório em vídeo.
+
+Cada episódio documenta uma etapa do Projeto Cyber-Humano.
+
+---
+
+### 💻 GitHub
+
+O laboratório em profundidade.
+
+Aqui estão registradas as decisões metodológicas, os experimentos, as evidências e os aprendizados que sustentam cada investigação.
+
+---
+
+# Em construção
+
+A Neocortex é uma investigação contínua.
+
+Novas hipóteses surgirão.
+
+Algumas serão confirmadas.
+
+Outras serão descartadas.
+
+Essa evolução faz parte do próprio laboratório.
+
+---
+
+# Bem-vindo.
+
+Se você chegou até aqui, provavelmente percebeu que este repositório não é apenas sobre tecnologia.
+
+É sobre compreender como ela pode ampliar a forma como percebemos, pensamos e decidimos.
+
+**Bem-vindo à Neocortex.**
+
+**Neocortex  Digital — Sua mente não termina em você**
+*by Tiago Coutinho*
